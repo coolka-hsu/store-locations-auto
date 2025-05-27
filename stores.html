@@ -7,15 +7,21 @@
     body { font-family: sans-serif; padding: 20px; line-height: 1.6; }
     h2 { font-size: 28px; font-weight: bold; border-bottom: 1px solid #ccc; padding-bottom: 6px; }
     h3 { font-size: 22px; font-weight: bold; border-bottom: 1px solid #ccc; padding-bottom: 6px; }
+    .store-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 20px;
+    }
     .store-box {
-      max-width: 370px;
+      flex: 1 1 calc(33.333% - 20px);
+      max-width: calc(33.333% - 20px);
       background: #f9f9f9;
       padding: 20px;
       border-radius: 12px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
       box-sizing: border-box;
-      margin: 10px;
-      flex: 1 1 300px;
+      margin-bottom: 20px;
       transition: all 0.3s ease;
     }
     .store-box:hover {
@@ -23,10 +29,17 @@
       transform: translateY(-4px);
       background-color: #f0f8ff;
     }
-    .store-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 20px;
+    @media (max-width: 1024px) {
+      .store-box {
+        flex: 1 1 calc(50% - 20px);
+        max-width: calc(50% - 20px);
+      }
+    }
+    @media (max-width: 600px) {
+      .store-box {
+        flex: 1 1 100%;
+        max-width: 100%;
+      }
     }
   </style>
 </head>
@@ -44,6 +57,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-8792-8253">02-8792-8253</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E6%96%B0%E6%98%8E%E8%B7%AF80%E8%99%9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.240197550498!2d121.58719407595703!3d25.059846737249224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab97b07a8b6f%3A0xd87d3c8d98909d27!2z5Y2X5rOV6aaZ6aCMIOWFp-a5luaWsOaYjue4veWAiemWgOW4gg!5e0!3m2!1szh-TW!2stw!4v1747282583754!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -55,6 +73,11 @@
   <p>
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-2799-8110">02-2799-8110</a>
+  </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%86%85%E6%B9%96%E5%8D%80%E6%96%87%E5%BE%B7%E8%B7%AF80%E8%99%9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.6973197038874!2d121.58200719999999!3d25.078246099999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ad1309471a89%3A0x1e7caca2d1418cdf!2z5Y2X5rOV6aaZ6aCMIOWFp-a5luaWh-W-t-W6lw!5e0!3m2!1szh-TW!2stw!4v1747282507381!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -68,6 +91,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-2883-2492">02-2883-2492</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E5%A4%A7%E6%9D%B1%E8%B7%AF83%E8%99%9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.328175228849!2d121.52307317595758!3d25.09075003600291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442aea52aeef325%3A0x25bcccc4ab91ef71!2z5Y2X5rOV6aaZ6aCMIOWjq-ael-aXl-iJpuW6lw!5e0!3m2!1szh-TW!2stw!4v1747282631074!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -80,6 +108,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:0975-936-842">0975-936-842</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AB%B9%E5%8C%97%E5%B8%82%E8%8E%8A%E6%95%AC%E4%B8%89%E8%B7%AF45%E8%99%9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.2039958535725!2d121.02246837595128!3d24.822696446766493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346837d046d0dbf1%3A0xfdda8d600fbb2c3f!2z5Y2X5rOV6aaZ6aCMIOerueWMl-mrlOmpl-W6lw!5e0!3m2!1szh-TW!2stw!4v1747282698230!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -91,6 +124,11 @@
   <p>
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:03-835-9861">03-835-9861</a>
+  </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E8%8A%B1%E8%93%AE%E5%B8%82%E4%B8%AD%E6%AD%A3%E8%B7%AF551%E5%B7%B717%E8%99%9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3645.516100965837!2d121.60432507593251!3d23.977545780017074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34689fc06a9f07cf%3A0x6e09f57692f36e9e!2z5Y2X5rOV6aaZ6aCMIOiKseiTruW6lw!5e0!3m2!1szh-TW!2stw!4v1747282745535!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -108,6 +146,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-6636-5888#1608">02-6636-5888#1608</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E8%8F%B8%E5%BB%A0%E8%B7%AF88%E8%99%9F2F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.6907869328984!2d121.55877577595655!3d25.044565637865027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442abbf14a5e2f9%3A0x18502874ac156b44!2zMTEw5Y-w5YyX5biC5p2-5bGx5Y2A6I-45bug6LevODjomZ8!5e0!3m2!1szh-TW!2stw!4v1747282799615!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -119,6 +162,11 @@
   <p>
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-8771-9044">02-8771-9044</a>
+  </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B545%E8%99%9F9F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3614.768302207348!2d121.54208087595656!3d25.041935937970905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!1s0x3442a9e8e7bdad81%3A0xf9ac1413480dbf5!5e0!3m2!1szh-TW!2stw!4v1747282835213!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -132,6 +180,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:0985-639-881">0985-639-881</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B58%E8%99%9F2F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.8068668820724!2d121.56288367595636!3d25.040627538023525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab10ba78050d%3A0xe8f10291c176a31e!2z5Y2X5rOV6aaZ6aCMIOe1seS4gOaZguS7o-eZvuiyqOW6lw!5e0!3m2!1szh-TW!2stw!4v1747282873628!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -143,6 +196,11 @@
   <p>
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:02-2718-0186">02-2718-0186</a>
+  </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%B8%89%E6%AE%B5337%E8%99%9F1F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.4712845876784!2d121.54571407595665!3d25.052010837564982!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab916c7564f3%3A0x17f96eca4131c1d!2z5Y2X5rOV6aaZ6aCMIOW-rumiqOWNl-S6rA!5e0!3m2!1szh-TW!2stw!4v1747282903646!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -156,6 +214,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:0985-862-288">0985-862-288</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E6%96%B0%E7%AB%B9%E5%B8%82%E6%9D%B1%E5%8D%80%E4%B8%AD%E5%A4%AE%E8%B7%AF229%E8%99%9F5F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3621.5899463314477!2d120.97214607595106!3d24.80949094729414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3468355e6165a2fd%3A0xb9baf2b96481d10d!2z5Y2X5rOV6aaZ6aCMIOaWsOerueW3qOWfjg!5e0!3m2!1szh-TW!2stw!4v1747282927558!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -168,6 +231,11 @@
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:06-303-1178">06-303-1178</a>
   </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E5%8F%B0%E5%8D%97%E5%B8%82%E4%B8%AD%E8%A5%BF%E5%8D%80%E8%A5%BF%E9%96%80%E8%B7%AF1%E6%AE%B5658%E8%99%9FB1" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
+  </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.006722825855!2d120.19540927591115!3d22.98678026766174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77e72383eacf%3A0xd2541a343febde!2z5Y2X5rOV6aaZ6aCMIOilv-mWgOaWsOWFieS4iei2ig!5e0!3m2!1szh-TW!2stw!4v1747283058470!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="store-box">
@@ -179,6 +247,11 @@
   <p>
     <img src="https://cdn.cybassets.com/s/files/20888/ckeditor/pictures/content_e517cf23-f70f-4932-b517-f9a051665687.PNG" style="width:16px;vertical-align:middle;margin-right:6px;display:inline-block;">
     聯絡電話：<a href="tel:07-976-0046">07-976-0046</a>
+  </p>
+  <p>
+    <a href="https://www.google.com/maps/dir/?api=1&destination=%E9%AB%98%E9%9B%84%E5%B8%82%E5%89%8D%E9%8E%AE%E5%8D%80%E4%B8%AD%E8%8F%AF%E4%BA%94%E8%B7%AF789%E8%99%9F3F" target="_blank" style="display:inline-block;background:#337ab7;color:#fff;padding:6px 12px;border-radius:6px;text-decoration:none;font-size:14px;">
+      🚗 導航
+    </a>
   </p>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.5772604972813!2d120.3040363759032!3d22.594909032151115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e0372dde0b629%3A0xeb35a788369cd667!2z5Y2X5rOV6aaZ6aCMIOmrmOmbhOWkouaZguS7ow!5e0!3m2!1szh-TW!2stw!4v1747283086048!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
