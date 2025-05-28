@@ -196,5 +196,13 @@
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.5772604972813!2d120.3040363759032!3d22.594909032151115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e0372dde0b629%3A0xeb35a788369cd667!2z5Y2X5rOV6aaZ6aCMIOmrmOmbhOWkouaZguS7ow!5e0!3m2!1szh-TW!2stw!4v1747283086048!5m2!1szh-TW!2stw" width="100%" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
   </div>
+  <script>
+    function sendHeightToParent() {
+      const height = document.body.scrollHeight;
+      parent.postMessage({ from: 'store-locations', height: height }, '*');
+    }
+    window.addEventListener('load', sendHeightToParent);
+    window.addEventListener('resize', sendHeightToParent);
+  </script>
 </body>
 </html>
