@@ -456,14 +456,6 @@
     "brand": "南法蕾朵"
   },
   {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzQxMjU3NTk4LzE2ODcxNjQ4NTNfZDA1ODNiMWYwNTRhNmE1ODc5YzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=78bd68a4cc58fa30",
-    "link": "https://www.senteurdoc.com.tw/products/outlet香竹-茶色星辰100ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E9%A6%99%E7%AB%B9-%E8%8C%B6%E8%89%B2%E6%98%9F%E8%BE%B0100ml",
-    "title": "【OUTLET】香竹-茶色星辰100ml",
-    "price": "NT$1580",
-    "sale_price": "NT$999",
-    "brand": "黛蕾克"
-  },
-  {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxNDM3LzE3NTQ2MzY0OTlfZjI1YzI2MzM5ZjQwM2U3NzMyZTIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=677470b5299fd931",
     "link": "https://www.senteurdoc.com.tw/products/outlet清爽防曬乳spf50-75ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF50-75ml",
     "title": "【OUTLET】清爽防曬乳SPF50-75ml",
@@ -878,6 +870,14 @@
     "price": "NT$980",
     "sale_price": "NT$588",
     "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU4MTUzOTI2LzE3NTQ1NDEzNDNfNTBkODU3ZDdkZjg4YmE4MTgzOGYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=331fb2a3c24eb37c",
+    "link": "https://www.senteurdoc.com.tw/products/馬賽皂-任3入?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E9%A6%AC%E8%B3%BD%E7%9A%82%20%E4%BB%BB3%E5%85%A5",
+    "title": "馬賽皂 任3入",
+    "price": "NT$1140",
+    "sale_price": "NT$799",
+    "brand": "歐巴拉朵"
   },
   {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxNDM2LzE3NTQ2MzY0NDdfNjAyYTViZmE2ZDE3MjgwMmVkMDguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=5795965586ac8388",
@@ -1635,14 +1635,6 @@
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MDg3NTE4LzE2NDQzMTQ3MjJfMTE4MzMxNGUzNzExODg3OTA2ZjAuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=1245053ce3497ed7",
     "link": "https://www.senteurdoc.com.tw/products/南法蕾朵-藍膠尤加利精油30ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E5%8D%97%E6%B3%95%E8%95%BE%E6%9C%B5%20%E8%97%8D%E8%86%A0%E5%B0%A4%E5%8A%A0%E5%88%A9%E7%B2%BE%E6%B2%B930ml",
     "title": "南法蕾朵 藍膠尤加利精油30ml",
-    "price": "NT$1400",
-    "sale_price": "NT$1400",
-    "brand": "南法蕾朵"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MDg3NTE5LzE2NDQzMTQ2NTFfMjc0OTc2YzlhNTEwNmYzMjA1MmIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=26e6f7c079e0058a",
-    "link": "https://www.senteurdoc.com.tw/products/南法蕾朵-醒目薰衣草精油30ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E5%8D%97%E6%B3%95%E8%95%BE%E6%9C%B5%20%E9%86%92%E7%9B%AE%E8%96%B0%E8%A1%A3%E8%8D%89%E7%B2%BE%E6%B2%B930ml",
-    "title": "南法蕾朵 醒目薰衣草精油30ml",
     "price": "NT$1400",
     "sale_price": "NT$1400",
     "brand": "南法蕾朵"
@@ -2614,13 +2606,5 @@
     "price": "NT$980",
     "sale_price": "NT$980",
     "brand": "ECO Cosmetics"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU4MTc1MjIwLzE3NTQ1NTQ2ODJfMWJjYWFiMDM1ZTkyYWM0NzUxYTYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=3d7fe30aa2f15390",
-    "link": "https://www.senteurdoc.com.tw/products/歐巴拉朵-玉潤馬賽皂300g?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5%20%E7%8E%89%E6%BD%A4%E9%A6%AC%E8%B3%BD%E7%9A%82300g*",
-    "title": "歐巴拉朵 玉潤馬賽皂300g*",
-    "price": "NT$380",
-    "sale_price": "NT$380",
-    "brand": "歐巴拉朵"
   }
 ]
