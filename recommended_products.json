@@ -1,13 +1,5 @@
 [
   {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU4MTcwNjU2LzE3NTQ1NDE1MjlfMGY2NDIwYmI2ZDVhMTFkMTNiODkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=30a9f7c3e309f35c",
-    "link": "https://www.senteurdoc.com.tw/products/經典洗髮沐浴精-任2瓶-送壓頭?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E7%B6%93%E5%85%B8%E6%B4%97%E9%AB%AE%E6%B2%90%E6%B5%B4%E7%B2%BE%20%E4%BB%BB2%E7%93%B6%20%E9%80%81%E5%A3%93%E9%A0%AD",
-    "title": "經典洗髮沐浴精 任2瓶 送壓頭",
-    "price": "NT$2720",
-    "sale_price": "NT$1799",
-    "brand": "歐巴拉朵"
-  },
-  {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU4MTE4ODE3LzE3NTQ1NDEyNTdfZjk4YjQ2Y2I2ZDdmNGIxMzdhMjIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=bacf866d89acc6a6",
     "link": "https://www.senteurdoc.com.tw/products/亞麻油黑肥皂三入組薰衣草-送噴瓶?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E4%BA%9E%E9%BA%BB%E6%B2%B9%E9%BB%91%E8%82%A5%E7%9A%82%E4%B8%89%E5%85%A5%E7%B5%84(%E8%96%B0%E8%A1%A3%E8%8D%89)%20%E9%80%81%E5%99%B4%E7%93%B6",
     "title": "亞麻油黑肥皂三入組(薰衣草) 送噴瓶",
@@ -46,6 +38,14 @@
     "price": "NT$2880",
     "sale_price": "NT$2016",
     "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM3OTk5MTEzLzE3NTQ1NDA3MTdfMzM5MjJlYWZlMzkxNDFmN2IyN2IuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=18b6438ab3b859f9",
+    "link": "https://www.senteurdoc.com.tw/products/植物油洗碗精-3入-送壓頭?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E6%A4%8D%E7%89%A9%E6%B2%B9%E6%B4%97%E7%A2%97%E7%B2%BE%203%E5%85%A5%20%E9%80%81%E5%A3%93%E9%A0%AD",
+    "title": "植物油洗碗精 3入 送壓頭",
+    "price": "NT$1820",
+    "sale_price": "NT$999",
+    "brand": "歐巴拉朵"
   },
   {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1MTI3MTk0LzE3NDU0ODg2OTRfZmNmZmFhMGIzMDBiN2QyNjhhNzcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=4328f526bfa1792c",
@@ -120,36 +120,12 @@
     "brand": "歐巴拉朵"
   },
   {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1ODIzMjEwLzE3NTEyNjY5NjZfYTAxYmQxZTdhOThkYTg1NWI2NzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=b2c8f93b584464f3",
-    "link": "https://www.senteurdoc.com.tw/products/outlet側柏醇百里香純露200ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E5%81%B4%E6%9F%8F%E9%86%87%E7%99%BE%E9%87%8C%E9%A6%99%E7%B4%94%E9%9C%B2200ml",
-    "title": "【OUTLET】側柏醇百里香純露200ml",
-    "price": "NT$980",
-    "sale_price": "NT$588",
-    "brand": "南法蕾朵"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1ODIzMzM3LzE3NTEyNjY5MTlfZDE4ZmUwZTFiMDMxZmQ4YTc1OGIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=48795eb85e5b6c1d",
-    "link": "https://www.senteurdoc.com.tw/products/outlet綠茶純露200ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E7%B6%A0%E8%8C%B6%E7%B4%94%E9%9C%B2200ml",
-    "title": "【OUTLET】綠茶純露200ml",
-    "price": "NT$980",
-    "sale_price": "NT$588",
-    "brand": "南法蕾朵"
-  },
-  {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxNDM2LzE3NTQ2MzY0NDdfNjAyYTViZmE2ZDE3MjgwMmVkMDguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=5795965586ac8388",
     "link": "https://www.senteurdoc.com.tw/products/outlet清爽防曬乳spf30?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E6%B8%85%E7%88%BD%E9%98%B2%E6%9B%AC%E4%B9%B3SPF30",
     "title": "【OUTLET】清爽防曬乳SPF30",
     "price": "NT$1080",
     "sale_price": "NT$756",
     "brand": "ECO Cosmetics"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxMzY1LzE3MTI4MjExNzRfMTRiZTEzODAxZDdhMTAzMTBiZDcuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=f9297ea70bd32cb4",
-    "link": "https://www.senteurdoc.com.tw/products/outlet薄荷純露200ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E8%96%84%E8%8D%B7%E7%B4%94%E9%9C%B2200ml",
-    "title": "【OUTLET】薄荷純露200ml",
-    "price": "NT$980",
-    "sale_price": "NT$686",
-    "brand": "南法蕾朵"
   },
   {
     "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU4MTUzOTI2LzE3NTQ1NDEzNDNfNTBkODU3ZDdkZjg4YmE4MTgzOGYuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=331fb2a3c24eb37c",
@@ -389,14 +365,6 @@
     "title": "歐巴拉朵 玉潤馬賽皂150g*",
     "price": "NT$300",
     "sale_price": "NT$300",
-    "brand": "歐巴拉朵"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MDg3MzkxLzE3MTg3OTU2NDRfY2E1ZWZkYTgzYTdmMTA0OGU2YjAuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=c509f3f13f07b670",
-    "link": "https://www.senteurdoc.com.tw/products/歐巴拉朵-私密沐浴露500ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E6%AD%90%E5%B7%B4%E6%8B%89%E6%9C%B5%20%E7%A7%81%E5%AF%86%E6%B2%90%E6%B5%B4%E9%9C%B2500ml*",
-    "title": "歐巴拉朵 私密沐浴露500ml*",
-    "price": "NT$780",
-    "sale_price": "NT$780",
     "brand": "歐巴拉朵"
   },
   {
@@ -805,14 +773,6 @@
     "title": "南法蕾朵 甜羅勒精油10ml",
     "price": "NT$1000",
     "sale_price": "NT$1000",
-    "brand": "南法蕾朵"
-  },
-  {
-    "image_link": "https://cdn.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MDg3NTExLzE2NDQzMTQ4NjBfMDA2N2Q2MjhmMzg4Mzg2MDExNDkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=09204eaed147446d",
-    "link": "https://www.senteurdoc.com.tw/products/南法蕾朵-乳香精油5ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E5%8D%97%E6%B3%95%E8%95%BE%E6%9C%B5%20%E4%B9%B3%E9%A6%99%E7%B2%BE%E6%B2%B95ml",
-    "title": "南法蕾朵 乳香精油5ml",
-    "price": "NT$1600",
-    "sale_price": "NT$1600",
     "brand": "南法蕾朵"
   },
   {
