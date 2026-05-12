@@ -1,13 +1,5 @@
 [
   {
-    "image_link": "https://cdn-next.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzUwOTQ2MDgwLzE3NzUwNTYwMTdfN2QyNWYxMThjMWU3ZmUwOTQ0MDEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9b0219fd8d233452",
-    "link": "https://www.senteurdoc.com.tw/products/官網獨家速潔橄欖油黑肥皂-單瓶三入組?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90%E5%AE%98%E7%B6%B2%E7%8D%A8%E5%AE%B6%E3%80%91%E9%80%9F%E6%BD%94%E6%A9%84%E6%AC%96%E6%B2%B9%E9%BB%91%E8%82%A5%E7%9A%82%20%E5%96%AE%E7%93%B6%2F%E4%B8%89%E5%85%A5%E7%B5%84",
-    "title": "【官網獨家】速潔橄欖油黑肥皂 單瓶/三入組",
-    "price": "NT$2360",
-    "sale_price": "NT$1299",
-    "brand": "歐巴拉朵"
-  },
-  {
     "image_link": "https://cdn-next.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1OTY4NjA4LzE3NDg0MjE0MDJfYWJhYmE5ZWVkZmRhMjZjMDZiMDguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=11eac9f01e3d17bc",
     "link": "https://www.senteurdoc.com.tw/products/純露體驗組-三入?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E7%B4%94%E9%9C%B2%E9%AB%94%E9%A9%97%E7%B5%84%20%E4%B8%89%E5%85%A5",
     "title": "純露體驗組 三入",
@@ -94,6 +86,14 @@
     "price": "NT$700",
     "sale_price": "NT$490",
     "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn-next.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzY2OTM5MDk2LzE3NzYxNTI2MjlfMTVhZDdkMzZkNmMzZTA5NDdhN2UuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=a0f3f8950413b99e",
+    "link": "https://www.senteurdoc.com.tw/products/eco黑種草漱口水濃縮液50ml-sale2?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=ECO%E9%BB%91%E7%A8%AE%E8%8D%89%E6%BC%B1%E5%8F%A3%E6%B0%B4(%E6%BF%83%E7%B8%AE%E6%B6%B2)50ml",
+    "title": "ECO黑種草漱口水(濃縮液)50ml",
+    "price": "NT$680",
+    "sale_price": "NT$479",
+    "brand": "ECO Cosmetics"
   },
   {
     "image_link": "https://cdn-next.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM4MTIxNzEzLzE3NTYzNTM2NDNfODE1ZjExNzNlZTU0ZGU0NjRhMjguanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=42478f0734b46e13",
@@ -189,14 +189,6 @@
     "title": "ECO 黑種草牙膏75ml",
     "price": "NT$380",
     "sale_price": "NT$279",
-    "brand": "ECO Cosmetics"
-  },
-  {
-    "image_link": "https://cdn-next.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzY2OTM5MDk2LzE3NzYxNTI2MjlfMTVhZDdkMzZkNmMzZTA5NDdhN2UuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=a0f3f8950413b99e",
-    "link": "https://www.senteurdoc.com.tw/products/eco黑種草漱口水濃縮液50ml-sale2?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=ECO%E9%BB%91%E7%A8%AE%E8%8D%89%E6%BC%B1%E5%8F%A3%E6%B0%B4(%E6%BF%83%E7%B8%AE%E6%B6%B2)50ml",
-    "title": "ECO黑種草漱口水(濃縮液)50ml",
-    "price": "NT$580",
-    "sale_price": "NT$479",
     "brand": "ECO Cosmetics"
   },
   {
