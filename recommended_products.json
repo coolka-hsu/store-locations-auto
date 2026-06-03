@@ -56,20 +56,20 @@
     "brand": "黛蕾克"
   },
   {
-    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzUyMjA5Mjk1LzE3ODAwNDc4NTdfZGQ2OGYwYTQzYmUzNzBjZDRiMmIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=5c96664ec337f7dd",
-    "link": "https://www.senteurdoc.com.tw/products/出清忍冬蜂蜜洗髮精3l?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90%E5%87%BA%E6%B8%85%E3%80%91%E5%BF%8D%E5%86%AC%E8%9C%82%E8%9C%9C%E6%B4%97%E9%AB%AE%E7%B2%BE3L",
-    "title": "【出清】忍冬蜂蜜洗髮精3L",
-    "price": "NT$3480",
-    "sale_price": "NT$2784",
-    "brand": "歐巴拉朵"
-  },
-  {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzUyMjA5MzI2LzE3ODAwNDc4NDBfMjVkYzAzMWIxYTRlNDA2NzMyMGQuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ca8fde2ca323db70",
     "link": "https://www.senteurdoc.com.tw/products/出清特級橄欖油沐浴乳3l?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90%E5%87%BA%E6%B8%85%E3%80%91%E7%89%B9%E7%B4%9A%E6%A9%84%E6%AC%96%E6%B2%B9%E6%B2%90%E6%B5%B4%E4%B9%B33L",
     "title": "【出清】特級橄欖油沐浴乳3L",
     "price": "NT$3480",
     "sale_price": "NT$2784",
     "brand": "歐巴拉朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzUyMzY4NTMyLzE3NjcxNjQyNDBfNTMzZTE2NmM4ZWFmOTk2ZWQyYWQuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=1d72ce2fce4724d6",
+    "link": "https://www.senteurdoc.com.tw/products/outlet麥蘆卡精油5ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E9%BA%A5%E8%98%86%E5%8D%A1%E7%B2%BE%E6%B2%B95ml",
+    "title": "【OUTLET】麥蘆卡精油5ml",
+    "price": "NT$1600",
+    "sale_price": "NT$960",
+    "brand": "南法蕾朵"
   },
   {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzYyODMxNTI1LzE3ODAwNDI0MjVfZmMyYzIxNTNmZTlmM2EyN2U5OTEuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9682f1640ea2362d",
@@ -112,6 +112,14 @@
     "brand": "歐巴拉朵"
   },
   {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1MTI1Njc4LzE3NDU0ODIxNzRfMjM0MmQ1YzNiYWU4NjQyODMwMjMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=6a0803417aa6f9f8",
+    "link": "https://www.senteurdoc.com.tw/products/outlet胡蘿蔔籽精油5ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E8%83%A1%E8%98%BF%E8%94%94%E7%B1%BD%E7%B2%BE%E6%B2%B95ml",
+    "title": "【OUTLET】胡蘿蔔籽精油5ml",
+    "price": "NT$1800",
+    "sale_price": "NT$1260",
+    "brand": "南法蕾朵"
+  },
+  {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzYyODMyMjE2LzE3ODAwNDI2NTVfNmE1MjkxNzMzYjNhOTczNGFhYWIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=ed5c675400264879",
     "link": "https://www.senteurdoc.com.tw/products/期間限定身體乳-水嫩維他命乾燥肌200ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%80%91%E8%BA%AB%E9%AB%94%E4%B9%B3-%E6%B0%B4%E5%AB%A9%E7%B6%AD%E4%BB%96%E5%91%BD(%E4%B9%BE%E7%87%A5%E8%82%8C)200ml",
     "title": "【期間限定】身體乳-水嫩維他命(乾燥肌)200ml",
@@ -149,6 +157,22 @@
     "title": "南法蕾朵 玫瑰緊緻煥采油30ml",
     "price": "NT$1980",
     "sale_price": "NT$1499",
+    "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzU1MTI2ODQ1LzE3NDU0ODY3MDRfMTVmMzEwNDI3MjU4NjJiYjE2OTIuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=6016930b418af144",
+    "link": "https://www.senteurdoc.com.tw/products/outlet岩蘭草精油-5ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E5%B2%A9%E8%98%AD%E8%8D%89%E7%B2%BE%E6%B2%B9%205ml",
+    "title": "【OUTLET】岩蘭草精油 5ml",
+    "price": "NT$1600",
+    "sale_price": "NT$1120",
+    "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzY4NDY1MTQzLzE3ODAzODYzMDJfMDRmMTU5ZGZkN2NjMzY2ZDRlY2QuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=f05cd6193218318b",
+    "link": "https://www.senteurdoc.com.tw/products/outlet荳蔻精油5ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E8%8D%B3%E8%94%BB%E7%B2%BE%E6%B2%B95ml",
+    "title": "【OUTLET】荳蔻精油5ml",
+    "price": "NT$1600",
+    "sale_price": "NT$1120",
     "brand": "南法蕾朵"
   },
   {
@@ -344,6 +368,14 @@
     "brand": "歐巴拉朵"
   },
   {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzQxMjU4NjQ1LzE2ODcxNjc3OTJfNTQ4OTZmOWNkYzU2ZGMwMzcyYTMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=297239af81042559",
+    "link": "https://www.senteurdoc.com.tw/products/outlet玫瑰果元萃油30ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E7%8E%AB%E7%91%B0%E6%9E%9C%E5%85%83%E8%90%83%E6%B2%B930ml",
+    "title": "【OUTLET】玫瑰果元萃油30ml",
+    "price": "NT$980",
+    "sale_price": "NT$686",
+    "brand": "南法蕾朵"
+  },
+  {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxMzQ0LzE2NjM3NTM2ODFfOTY0YThjMDhkODNmOGNmZmIzZDAuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=1466a334ded72321",
     "link": "https://www.senteurdoc.com.tw/products/outlet橙花純露200ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E6%A9%99%E8%8A%B1%E7%B4%94%E9%9C%B2200ml(2027.10)",
     "title": "【OUTLET】橙花純露200ml(2027.10)",
@@ -368,6 +400,22 @@
     "brand": "歐巴拉朵"
   },
   {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzQ1ODIzNTExLzE3MTI1NzI0NzBfMjdjYzhlODYwYjc1YmIwNjEyNWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=f194b976bd2585c7",
+    "link": "https://www.senteurdoc.com.tw/products/outlet桔精油10ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E6%A1%94%E7%B2%BE%E6%B2%B910ml",
+    "title": "【OUTLET】桔精油10ml",
+    "price": "NT$900",
+    "sale_price": "NT$630",
+    "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM5Mjk4NTc1LzE2NzMzNTEwNjZfYzIzYmVmYmU3NDMxNDRiMGQwNDkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=9d08a92697925e4c",
+    "link": "https://www.senteurdoc.com.tw/products/outlet酪梨元萃油100ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E9%85%AA%E6%A2%A8%E5%85%83%E8%90%83%E6%B2%B9100ml",
+    "title": "【OUTLET】酪梨元萃油100ml",
+    "price": "NT$880",
+    "sale_price": "NT$616",
+    "brand": "南法蕾朵"
+  },
+  {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxNDM1LzE3Nzk5NTYwNDBfOTk3ODI2NmE2ODYyZDgxYzJjNWMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=da8aa9a6765ddb6c",
     "link": "https://www.senteurdoc.com.tw/products/outlet綠茶三效潔膚乳125ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E7%B6%A0%E8%8C%B6%E4%B8%89%E6%95%88%E6%BD%94%E8%86%9A%E4%B9%B3125ml",
     "title": "【OUTLET】綠茶三效潔膚乳125ml",
@@ -390,6 +438,22 @@
     "price": "NT$780",
     "sale_price": "NT$546",
     "brand": "歐巴拉朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxMzI2LzE3ODAzODYwNzZfMTNlN2FjMzI3ZjU0NGUxMzEzMTAuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=0864f0c60793f297",
+    "link": "https://www.senteurdoc.com.tw/products/outlet檸檬精油?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E6%AA%B8%E6%AA%AC%E7%B2%BE%E6%B2%B910ml",
+    "title": "【OUTLET】檸檬精油10ml",
+    "price": "NT$700",
+    "sale_price": "NT$490",
+    "brand": "南法蕾朵"
+  },
+  {
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM2MjUxMzMzLzE2NDkzMTk5MzVfODEwNWFlODIwNDM3YjJmZTkyYWQuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=694bd9ceb7ded449",
+    "link": "https://www.senteurdoc.com.tw/products/outlet葡萄柚精油10ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E8%91%A1%E8%90%84%E6%9F%9A%E7%B2%BE%E6%B2%B910ml",
+    "title": "【OUTLET】葡萄柚精油10ml",
+    "price": "NT$700",
+    "sale_price": "NT$490",
+    "brand": "南法蕾朵"
   },
   {
     "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM5MzgxOTM2LzE3ODAwNDY1MDFfZDU0MmIzMDFhOTYzMDdiMWM0ZTkuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=b2cfc13df0a985c5",
@@ -448,9 +512,9 @@
     "brand": "ONAGRINE"
   },
   {
-    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzY1NDEzOTQxLzE3ODAwNDgxNTdfZDkxODA0NDk4Mzg1NjZkMWEyOGUuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=17c7fd739962eab4",
-    "link": "https://www.senteurdoc.com.tw/products/出清擴香專用精油-活力充沛10ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90%E5%87%BA%E6%B8%85%E3%80%91%E6%93%B4%E9%A6%99%E5%B0%88%E7%94%A8%E7%B2%BE%E6%B2%B9-%E6%B4%BB%E5%8A%9B%E5%85%85%E6%B2%9B10ml",
-    "title": "【出清】擴香專用精油-活力充沛10ml",
+    "image_link": "https://cdn-general.cybassets.com/media/W1siZiIsIjIwODg4L3Byb2R1Y3RzLzM5Mjk4NDcwLzE2NzMzNDU1MDJfNzRiMTQ1OWZmNDBmN2Q1NWYyMzMuanBlZyJdLFsicCIsInRodW1iIiwiNjAweDYwMCJdXQ.jpeg?sha=89932e61dddb05af",
+    "link": "https://www.senteurdoc.com.tw/products/outlet藍膠尤加利精油10ml?utm_source=404page&utm_medium=CPC&utm_campaign=動態產品目錄&utm_content=%E3%80%90OUTLET%E3%80%91%E8%97%8D%E8%86%A0%E5%B0%A4%E5%8A%A0%E5%88%A9%E7%B2%BE%E6%B2%B910ml",
+    "title": "【OUTLET】藍膠尤加利精油10ml",
     "price": "NT$600",
     "sale_price": "NT$420",
     "brand": "南法蕾朵"
